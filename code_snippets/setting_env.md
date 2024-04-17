@@ -44,6 +44,9 @@ pdm add -dG dev black
 
 # PDM 가상환경으로 접근하려면
 source .venv/bin/activate
+
+# 라이브러리 목록(pyproject-toml) 설치
+pdm install
 ```
 
 ## 설치 라이브러리 목록
