@@ -109,3 +109,4 @@ repos:
       - id: black
         args: [-l 80]
 ```
+pre-commit install
