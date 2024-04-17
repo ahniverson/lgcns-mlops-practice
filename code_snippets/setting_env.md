@@ -78,6 +78,7 @@ dev = [
 ```
 
 ## 프리커밋 설정
+pre-commit sample-config > .pre-commit-config.yaml
 
 ```yaml
 repos:
