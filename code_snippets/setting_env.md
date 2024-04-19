@@ -1,6 +1,10 @@
 # 개발 환경 설정
 ## 프롬프트 변경
 export PS1="\u\$ " #\u 사용자명
+
+## 내 외부 IP 확인하기
+curl http://icanhazip.com
+
 ## 가상환경 설정
 
 ```bash
